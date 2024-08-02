@@ -40,13 +40,14 @@
 
 - 빅데이터 학습
     - 실습자료, 파이썬 기본(패스), 빅데이터 분석 기초학습
-    - [넘파이](https://github.com/MsgIsJmt/lot-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
-    - [판다스](https://github.com/MsgIsJmt/lot-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
-    - [맷플롭립](https://github.com/MsgIsJmt/lot-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
+    - [넘파이](https://github.com/c9yu/lot-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/c9yu/lot-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/c9yu/lot-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
 
 ## 2일차
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
+    - 셀레니움 + 뷰티플수프 같이 진행
     - [뷰티플수프]()
 
 
